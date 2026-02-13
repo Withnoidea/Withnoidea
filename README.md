@@ -1,6 +1,6 @@
 ## Hi there 👋
 ![Withnoidea's GitHub stats](https://github-readme-stats.vercel.app/api?username=Withnoidea)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Withnoidea)
 **Withnoidea/Withnoidea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
