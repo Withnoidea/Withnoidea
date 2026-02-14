@@ -27,5 +27,6 @@
 </div>
 
 ###
-![(https://count.getloli.com/@:name](https://count.getloli.com/@:Withnoidea?name=%3AWithnoidea&theme=gelbooru&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto)
-
+<div align="center">
+  <img src="https://count.getloli.com/@:Withnoidea?name=%3AWithnoidea&theme=gelbooru&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" alt=":Withnoidea" />
+</div>
