@@ -1,4 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=24F7EB&width=435&lines=HI!+Welcome+to+my+github+Space)](https://git.io/typing-svg)
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=header&reversal=false&text=Withnoidea&fontSize=70&fontColor=f7f5f5&fontAlign=50&fontAlignY=50&stroke=-&strokeWidth=0&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
