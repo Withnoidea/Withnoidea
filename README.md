@@ -12,8 +12,8 @@
 
 <!-- LINKS & STATUS -->
 <div align="center">
-  <a href="https://Withnoidea.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Blog-Withnoidea.github.io-181717?style=flat-square&logo=githubpages&logoColor=white" alt="Blog" />
+  <a href="https://withnoidea.dpdns.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-withnoidea.dpdns.org-2ea44f?style=flat-square&logo=google-chrome&logoColor=white" alt="Blog" />
   </a>
   &nbsp;
   <img src="https://img.shields.io/github/followers/Withnoidea?label=Followers&style=flat-square&color=238636" alt="Followers" />
