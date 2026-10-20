@@ -12,7 +12,7 @@
 
 <!-- LINKS & STATUS -->
 <div align="center">
-  <a href="https://withnoidea.dpdns.org/" target="_blank">
+  <a href="https://withnoidea.com/" target="_blank">
     <img src="https://img.shields.io/badge/Blog-withnoidea.dpdns.org-2ea44f?style=flat-square&logo=google-chrome&logoColor=white" alt="Blog" />
   </a>
   &nbsp;
